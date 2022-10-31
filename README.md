@@ -1,4 +1,4 @@
-# Jdaniels 
+# 
 i created this application using an app generator (npx create-react-app frontend_react) for a docker/AWS/K8S course on Udemy. This app was made for section 6. Creating a Production-Grade Workflow
 
 # Getting Started with Create React App
